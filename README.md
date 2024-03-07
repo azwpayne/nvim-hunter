@@ -10,5 +10,5 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 ## use example
 
 ```bash
-git clone xxx ~/.config/nvim
+git clone git@github.com:0x2cf/nvim-hunter.git ~/.config/nvim
 ```
